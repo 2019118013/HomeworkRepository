@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="viewport" content="user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, width=device-width" />
+    <title>로그인</title>
+    <link href="main.css" rel="stylesheet" />
+</head>
+<body class="flex-col login-page">
+    <header class="login-header flex-col-center">
+        <h1>Welcome to INTERNET-PROGRAMMING MOVIE SITE</h1>
+        <span class="margin-row-12">
+            <a href="login.html">로그인</a>
+            |
+            <a href="signup.html">회원가입</a>
+        </span>
+    </header>
+    <main class="login-main-container flex-col-center ">
+        <div class="login-form-container padding-col-16 padding-row-16">
+            <form class="login-form" action="login.html" method="post">
+                <label for="username">아이디:</label>
+                <input type="text" id="username" name="username" required>
+                <br><br>
+                <label for="password">비밀번호:</label>
+                <input type="password" id="password" name="password" required>
+                <br><br>
+                
+                <div class="flex-row-center login-button-container">
+                    <input class="login padding-row-4 padding-col-8" type="submit" value="Login">
+                    <div class="margin-col-4"></div>
+                    <input class="cancel padding-row-4 padding-col-8" type="reset" value="Cancel">
+                </div>
+            </form>
+        </div>
+    </main>
+</body>
