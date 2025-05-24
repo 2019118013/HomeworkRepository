@@ -1,0 +1,171 @@
+[
+    {
+      "id": 1,
+      "name": "Toy Story",
+      "price": 2000,
+      "genre": "animation",
+      "description": "Led by Woody, Andy's toys live happily in his room, but when Buzz Lightyear arrives, the duo eventually learns to put aside their differences.",
+      "image": "toystory.png"
+    },
+    {
+      "id": 2,
+      "name": "Jumanji",
+      "price": 2100,
+      "genre": "adventure",
+      "description": "When siblings Judy and Peter discover an enchanted board game, they unwittingly release a host of dangers including hunter Van Pelt.",
+      "image": "jumanji.png"
+    },
+    {
+      "id": 3,
+      "name": "Grumpier Old Men",
+      "price": 2200,
+      "genre": "romance",
+      "description": "The antics continue as the old rivals face new romantic entanglements in this heartwarming sequel.",
+      "image": "grumpieroldmen.png"
+    },
+    {
+      "id": 4,
+      "name": "Waiting to Exhale",
+      "price": 2300,
+      "genre": "drama",
+      "description": "Four African-American women share their personal struggles and support each other through love and heartbreak.",
+      "image": "waitingtoexhale.png"
+    },
+    {
+      "id": 5,
+      "name": "Father of the Bride Part II",
+      "price": 2400,
+      "genre": "comedy",
+      "description": "George Banks faces the double trouble of his daughter expecting a child and his wife expecting another.",
+      "image": "fatherofthebride.png"
+    },
+    {
+      "id": 6,
+      "name": "Heat",
+      "price": 2500,
+      "genre": "action",
+      "description": "A master thief and a dedicated detective square off in a high-stakes game of cat and mouse in Los Angeles.",
+      "image": "heat.png"
+    },
+    {
+      "id": 7,
+      "name": "Sabrina",
+      "price": 2600,
+      "genre": "romance",
+      "description": "A chauffeur's daughter returns from Paris transformed and captures the attention of the wealthy Larrabee brothers.",
+      "image": "sabrina.png"
+    },
+    {
+      "id": 8,
+      "name": "Tom and Huck",
+      "price": 2700,
+      "genre": "adventure",
+      "description": "Based on Mark Twain's classic tale, Tom Sawyer and Huckleberry Finn witness a crime and race to save an innocent man.",
+      "image": "tomandhuck.png"
+    },
+    {
+      "id": 9,
+      "name": "Sudden Death",
+      "price": 2800,
+      "genre": "action",
+      "description": "A disgraced firefighter must thwart a terrorist plot during game six of the Stanley Cup finals.",
+      "image": "suddendeath.png"
+    },
+    {
+      "id": 10,
+      "name": "GoldenEye",
+      "price": 2900,
+      "genre": "action",
+      "description": "James Bond faces off against a former agent threatening global security with a powerful satellite weapon.",
+      "image": "goldeneye.png"
+    },
+    {
+      "id": 11,
+      "name": "The American President",
+      "price": 3000,
+      "genre": "romance",
+      "description": "A widowed President finds romance with an environmental lobbyist, but political obstacles arise.",
+      "image": "theamericanpresident.png"
+    },
+    {
+      "id": 12,
+      "name": "Dracula: Dead and Loving It",
+      "price": 3100,
+      "genre": "comedy",
+      "description": "Mel Brooks parodies the classic vampire tale with hilarious results.",
+      "image": "dracula.png"
+    },
+    {
+      "id": 13,
+      "name": "Balto",
+      "price": 3200,
+      "genre": "animation",
+      "description": "Inspired by true events, a half-wolf, half-dog leads a mission to deliver medicine through the Alaskan wilderness.",
+      "image": "balto.png"
+    },
+    {
+      "id": 14,
+      "name": "Nixon",
+      "price": 3300,
+      "genre": "drama",
+      "description": "An in-depth look at the life and career of President Richard Nixon.",
+      "image": "nixon.png"
+    },
+    {
+      "id": 15,
+      "name": "Cutthroat Island",
+      "price": 3400,
+      "genre": "adventure",
+      "description": "A pirate captain and her crew search for hidden treasure on the infamous Cutthroat Island.",
+      "image": "cutthroatisland.png"
+    },
+    {
+      "id": 16,
+      "name": "Casino",
+      "price": 3500,
+      "genre": "crime",
+      "description": "The rise and fall of a casino manager entangled with mobsters and corruption in Las Vegas.",
+      "image": "casino.png"
+    },
+    {
+      "id": 17,
+      "name": "Sense and Sensibility",
+      "price": 3600,
+      "genre": "romance",
+      "description": "Two sisters navigate love and societal expectations in 19th-century England.",
+      "image": "senseandsensibility.png"
+    },
+    {
+      "id": 18,
+      "name": "Gone with the Wind",
+      "price": 3700,
+      "genre": "drama",
+      "description": "An epic tale of love and loss set against the backdrop of the American Civil War.",
+      "image": "gonewiththewind.png"
+    },
+    {
+      "id": 19,
+      "name": "Jumanji: Welcome to the Jungle",
+      "price": 3800,
+      "genre": "adventure",
+      "description": "Four teenagers are sucked into a video game and must survive its dangers to return home.",
+      "image": "jumanji.png"
+    },
+    {
+      "id": 20,
+      "name": "Spider-Man",
+      "price": 3900,
+      "genre": "action",
+      "description": "A high school student gains spider-like abilities and must protect New York City from the Green Goblin.",
+      "image": "spiderman.png"
+    },
+    {
+      "id": 21,
+      "name": "Titanic",
+      "price": 4000,
+      "genre": "drama",
+      "description": "A tragic love story unfolds aboard the doomed RMS Titanic.",
+      "image": "titanic.png"
+    }
+    
+  ]
